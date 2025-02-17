@@ -1,0 +1,6 @@
+Case ID,Alert Type,Risk Score,Status,Case Created Date
+C001,Large Transactions,85,Open,2025-02-01
+C002,Rapid Movement of Funds,92,Under Review,2025-02-03
+C003,Pattern in Funds Transfers,78,Closed,2025-02-05
+C004,Round Dollar Values,81,Open,2025-02-07
+C005,Large Transactions,88,Under Review,2025-02-10
